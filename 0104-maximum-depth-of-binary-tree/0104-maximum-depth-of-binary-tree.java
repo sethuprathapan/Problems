@@ -4,7 +4,7 @@
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
- *     TreeNode() {}
+ *     TreeNode() { }
  *     TreeNode(int val) { this.val = val; }
  *     TreeNode(int val, TreeNode left, TreeNode right) {
  *         this.val = val;
@@ -18,6 +18,7 @@ class Solution {
         if(root==null){
             return 0;
         }
+       
         return 1+Math.max(maxDepth(root.left),maxDepth(root.right));
     }
 }
