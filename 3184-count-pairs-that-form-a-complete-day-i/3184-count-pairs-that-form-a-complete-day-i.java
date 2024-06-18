@@ -6,7 +6,7 @@ class Solution {
            for(int val2=val1+1;val2<hours.length;val2++){
                int sum=hours[val1]+hours[val2];
                
-              System.out.println(hours[val2]+"val2");
+             // System.out.println(hours[val2]+"val2");
               // System.out.println(sum);
                if(sum%24==0){
                    count++;
