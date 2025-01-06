@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0626-exchange-seats](https://github.com/sethuprathapan/Problems/tree/master/0626-exchange-seats) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/sethuprathapan/Problems/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [2057-count-salary-categories](https://github.com/sethuprathapan/Problems/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/sethuprathapan/Problems/tree/master/2127-employees-whose-manager-left-the-company) |
